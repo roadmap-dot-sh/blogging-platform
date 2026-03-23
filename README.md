@@ -1,7 +1,9 @@
 # Blogging Platform API
 
-project
-url: <a href="https://roadmap.sh/projects/blogging-platform-api">https://roadmap.sh/projects/blogging-platform-api</a>
+Build a RESTful API for a personal blogging platform
+
+Project
+URL: <a href="https://roadmap.sh/projects/blogging-platform-api">https://roadmap.sh/projects/blogging-platform-api</a>
 
 ## Tech Stack
 
