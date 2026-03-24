@@ -5,13 +5,13 @@ Build a RESTful API for a personal blogging platform
 Project
 URL: <a href="https://roadmap.sh/projects/blogging-platform-api">https://roadmap.sh/projects/blogging-platform-api</a>
 
+You are required to create a simple RESTful API with basic CRUD operations for a personal blogging platform. CRUD stands
+for Create, Read, Update, and Delete.
+
 ## Tech Stack
 
 - Backend Framework: Spring Boot
 - Database: H2 Database
-
-You are required to create a simple RESTful API with basic CRUD operations for a personal blogging platform. CRUD stands
-for Create, Read, Update, and Delete.
 
 ## Goals
 
