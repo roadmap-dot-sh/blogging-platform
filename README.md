@@ -196,3 +196,13 @@ The endpoint should return a `200 OK` status code with an array of blog posts i.
   }
 ]
 ```
+
+While retrieving posts, user can also filter posts by a search term. You should do a wildcard search on the title,
+content or category fields of the blog posts. For example:
+
+```text
+GET /posts?term=tech
+```
+
+This should return all blog posts that have the term "tech" in their title, content or category. You can use a simple
+SQL query if you are using a SQL database or a similar query for a NoSQL database.
